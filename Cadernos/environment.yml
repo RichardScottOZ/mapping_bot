@@ -1,0 +1,22 @@
+name: mining_bot
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - setuptools_scm
+  - numpy
+  - scipy
+  - pandas
+  - numba
+  - pooch>=0.7.0
+  - verde>=1.5.0
+  - xarray
+  - geopandas
+  - boule
+  - pyproj
+  - matplotlib
+  - cartopy>=0.18
+  - shapely
+  - jupyterlab
