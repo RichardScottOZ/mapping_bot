@@ -8,15 +8,17 @@ Estrutura: Cada apostila será subdividida em volumes e temas, onde os volumes i
 
 
 Tutorial: Apostila Didática sobre os Pacotes em Python utilizados.
-[         “1 - Tutorial - Pandas”;
-“2 - Tutorial - Geopandas”;
-“3 - Tutorial - Numpy”
-“4 - Tutorial - SciKit-Learn
+                               [“1 - Tutorial - Pandas”;
+                                “2 - Tutorial - Geopandas”;
+                                “3 - Tutorial - Numpy”
+                                “4 - Tutorial - SciKit-Learn
                                 “5 - Tutorial - Interpolação por Splines / Verde-Tutorial”;
                                 “6 - Tutorial - Geological Image Processing”
-                                “7 - Tutorial - 
-]
+                                “7 - Tutorial - ";
+                                
+                               ]
 Test-Script: Apostila Didática dos roteiros utilizados em uma rotina.
-[        “1 - Test-Script - Construindo GeoDataBase”;
+                               [“1 - Test-Script - Construindo GeoDataBase”;
                                 “2 - Test-Script - Interpolação por Splines;
-]
+                                "3 - Test-Script - ";
+                               ]
